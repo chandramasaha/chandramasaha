@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandrama Saha</h1>
 <h3 align="center">An undergraduate student from India, fluent in UI/UX Design and an enthusiast in Front-End WebDev.</h3>
 
-- 🌱 I’m currently learning **javascript, python**
+- 🌱 i’m currently learning **front-end web development**
 
-- 👨‍💻 All of my links are available at [https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/](https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/)
+- 👨‍💻 check out my personal links [here](https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/)
 
-- 📫 How to reach me **chandramasaha@gmail.com**
+- 📫 reach me at **chandramasaha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,9 +17,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandramasaha&show_icons=true&locale=en&layout=compact" alt="chandramasaha" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramasaha&show_icons=true&locale=en" alt="chandramasaha" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramasaha&" alt="chandramasaha" /></p>
