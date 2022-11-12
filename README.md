@@ -3,7 +3,7 @@
 
 - 🌱 i’m currently learning **front-end web development**
 
-- 👨‍💻 check out my personal links [here](https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/)
+- 👨‍💻 check out all my links at [chandrama's profile](https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/)
 
 - 📫 reach me at **chandramasaha@gmail.com**
 
@@ -20,8 +20,8 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandramasaha&show_icons=true&locale=en&layout=compact" alt="chandramasaha" /></p>
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramasaha&show_icons=true&locale=en" alt="chandramasaha" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramasaha&" alt="chandramasaha" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandramasaha&show_icons=true&locale=en" alt="chandramasaha" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramasaha&" alt="chandramasaha" /></p>
