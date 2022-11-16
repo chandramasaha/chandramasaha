@@ -3,7 +3,7 @@
 
 - 🌱 i’m currently learning **front-end web development**
 
-- 👨‍💻 check out all my links at [chandrama's profile](https://chandramasaha.github.io/Personal-Profile--Linktree-Clone/)
+- 👨‍💻 check out all my links at [chandrama's profile](https://kzilla.xyz/chandrama)
 
 - 📫 reach me at **chandramasaha@gmail.com**
 
