@@ -1,7 +1,6 @@
 <h1 align="left">Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Chandrama Saha!  </h1>
  
-<a href="https://git.io/typing-svg">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&width=435&height=73&lines=sophomore+at+srmist(ktr)%2C+chennai;loves+to+design+user+interfaces!;currently+learning+web+dev." alt="Typing SVG" /> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=100&lines=sophomore+at+srmist(ktr)%2C+chennai;loves+to+design+user+interfaces!;currently+learning+web+dev." alt="Typing SVG" /></a>
 
 <br>
 <br>
@@ -10,7 +9,7 @@
 
 👨‍💻 check out all my links at [chandrama's profile](https://kzilla.xyz/chandrama)
 
-🖌️ constantly creating ui's for [nikhil-rgb] https://github.com/nikhil-rgb) <3
+🖌️ constantly creating ui's for [nikhil-rgb](https://github.com/nikhil-rgb) <3
 
 📫 reach me at **chandramasaha@gmail.com**
 
