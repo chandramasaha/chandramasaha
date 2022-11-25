@@ -2,10 +2,8 @@
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=100&lines=sophomore+at+srmist(ktr)%2C+chennai;loves+to+design+user+interfaces!;currently+learning+web+dev." alt="Typing SVG" /></a>
 
-<br>
-<br>
 
-🌱 currently learning **front-end web development**
+<br>
 
 👨‍💻 check out all my links at [chandrama's profile](https://kzilla.xyz/chandrama)
 
