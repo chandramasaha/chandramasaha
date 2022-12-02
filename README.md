@@ -5,11 +5,11 @@
 
 <br>
 
-👨‍💻 check out all my links at [chandrama's profile](https://kzilla.xyz/chandrama)
+👨‍💻 check out all my <strong>links</strong> at : [chandrama's profile](https://chandramasaha.github.io/personal-profile/)
 
 🖌️ constantly creating ui's for [nikhil-rgb](https://github.com/nikhil-rgb) <3
 
-📫 reach me at **chandramasaha@gmail.com**
+📫 reach out to me at **chandramasaha@gmail.com**
 
 <br>
 
@@ -20,10 +20,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   
 <h3 align="left"> - tools i use :</h3>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
 
 <h3 align="left"> - connect with me :</h3>
 <p align="left">
