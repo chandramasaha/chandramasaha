@@ -7,8 +7,6 @@
 
 👨‍💻 check out all my <strong>links</strong> at : [chandrama's profile](https://chandramasaha.github.io/personal-profile/)
 
-🖌️ constantly creating ui's for [nikhil-rgb](https://github.com/nikhil-rgb) <3
-
 📫 reach out to me at **chandramasaha@gmail.com**
 
 <br>
