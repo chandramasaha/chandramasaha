@@ -1,11 +1,7 @@
 <h1 align="left">Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Chandrama Saha!  </h1>
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=100&lines=sophomore+at+srmist(ktr)%2C+chennai;loves+to+design+user+interfaces!;currently+learning+web+dev." alt="Typing SVG" /></a>
-
-
 <br>
-
-👨‍💻 check out all my <strong>links</strong> at : [chandrama's profile](https://chandramasaha.github.io/personal-profile/)
 
 📫 reach out to me at **chandramasaha@gmail.com**
 
